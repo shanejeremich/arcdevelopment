@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/arcdevelopment/static/js/main.f8de737d.chunk.js",
+    "main.js.map": "/arcdevelopment/static/js/main.f8de737d.chunk.js.map",
+    "runtime-main.js": "/arcdevelopment/static/js/runtime-main.feda94f8.js",
+    "runtime-main.js.map": "/arcdevelopment/static/js/runtime-main.feda94f8.js.map",
+    "static/js/2.315d94c8.chunk.js": "/arcdevelopment/static/js/2.315d94c8.chunk.js",
+    "static/js/2.315d94c8.chunk.js.map": "/arcdevelopment/static/js/2.315d94c8.chunk.js.map",
+    "index.html": "/arcdevelopment/index.html",
+    "static/js/2.315d94c8.chunk.js.LICENSE.txt": "/arcdevelopment/static/js/2.315d94c8.chunk.js.LICENSE.txt",
+    "static/media/logo.d63e72ca.svg": "/arcdevelopment/static/media/logo.d63e72ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feda94f8.js",
+    "static/js/2.315d94c8.chunk.js",
+    "static/js/main.f8de737d.chunk.js"
+  ]
+}
