@@ -16,43 +16,43 @@ function ElevationScroll(props) {
   // will default to window.
   const trigger = useScrollTrigger({
     disableHysteresis: true,
-    threshold: 0
+    threshold: 0,
   });
 
   return cloneElement(children, {
-    elevation: trigger ? 4 : 0
+    elevation: trigger ? 4 : 0,
   });
 }
 
 const useStyles = makeStyles(theme => ({
   toolbarMargin: {
     ...theme.mixins.toolbar,
-    marginBottom: "3em"
+    marginBottom: "3em",
   },
   logo: {
-    height: "8em"
+    height: "8em",
   },
   logoContainer: {
     padding: 0,
     "&:hover": {
-      backgroundColor: "transparent"
-    }
+      backgroundColor: "transparent",
+    },
   },
   tabContainer: {
-    marginLeft: "auto"
+    marginLeft: "auto",
   },
   tab: {
     ...theme.typography.tab,
     minWidth: 10,
-    marginLeft: "25px"
+    marginLeft: "25px",
   },
   button: {
     ...theme.typography.estimate,
     borderRadius: "50px",
     marginLeft: "50px",
     marginRight: "25px",
-    height: "45px"
-  }
+    height: "45px",
+  },
 }));
 
 export default function Header(props) {
@@ -82,7 +82,12 @@ export default function Header(props) {
       <ElevationScroll>
         <AppBar position="fixed">
           <Toolbar disableGutters>
-            <Button component={Link} onClick={() => setValue(0)} to="/" disableRipple className={classes.logoContainer}>
+            <Button
+              component={Link}
+              onClick={() => setValue(0)}
+              to="/arcdevelopment"
+              disableRipple
+              className={classes.logoContainer}>
               <img src={logo} alt="company logo" className={classes.logo} />
             </Button>
             <Tabs
@@ -91,7 +96,7 @@ export default function Header(props) {
               colorIndicator="primary"
               className={classes.tabContainer}
               indicatorColor="primary">
-              <Tab className={classes.tab} component={Link} to="/" label="Home" />
+              <Tab className={classes.tab} component={Link} to="/arcdevelopment" label="Home" />
               <Tab className={classes.tab} component={Link} to="/services" label="Services" />
               <Tab className={classes.tab} component={Link} to="/revolution" label="The Revolution" />
               <Tab className={classes.tab} component={Link} to="/about" label="About Us" />

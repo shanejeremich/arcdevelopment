@@ -9,15 +9,15 @@ function App() {
       <Router>
         <Header />
         <Switch>
-          <Route exact path="/" component={() => <div>Home</div>} />
-          <Route exact path="/services" component={() => <div>Services</div>} />
-          <Route exact path="/customsoftware" component={() => <div>Custom Software</div>} />
-          <Route exact path="/mobileapps" component={() => <div>Mobile Apps</div>} />
-          <Route exact path="/websites" component={() => <div>Websites</div>} />
-          <Route exact path="/revolution" component={() => <div>The Revolution</div>} />
-          <Route exact path="/about" component={() => <div>About Us</div>} />
-          <Route exact path="/contact" component={() => <div>Contact Us</div>} />
-          <Route exact path="/estimate" component={() => <div>Estimate</div>} />
+          <Route exact path="/arcdevelopment" component={() => <div>Home</div>} />
+          <Route exact path="/arcdevelopment/services" component={() => <div>Services</div>} />
+          <Route exact path="/arcdevelopment/customsoftware" component={() => <div>Custom Software</div>} />
+          <Route exact path="/arcdevelopment/mobileapps" component={() => <div>Mobile Apps</div>} />
+          <Route exact path="/arcdevelopment/websites" component={() => <div>Websites</div>} />
+          <Route exact path="/arcdevelopment/revolution" component={() => <div>The Revolution</div>} />
+          <Route exact path="/arcdevelopment/about" component={() => <div>About Us</div>} />
+          <Route exact path="/arcdevelopment/contact" component={() => <div>Contact Us</div>} />
+          <Route exact path="/arcdevelopment/estimate" component={() => <div>Estimate</div>} />
         </Switch>
       </Router>
     </ThemeProvider>
