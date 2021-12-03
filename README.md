@@ -31,7 +31,7 @@ This project is for me to learn Material-UI and create a navigation header using
 
 ## Key Features
 
-- Simple navigation header styled with material-ui
+- Simple navigation header styled with Material-UI
 
 #### Front end deployed to `GitHub Pages`
 
