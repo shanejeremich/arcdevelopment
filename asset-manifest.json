@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/arcdevelopment/static/js/main.f8de737d.chunk.js",
-    "main.js.map": "/arcdevelopment/static/js/main.f8de737d.chunk.js.map",
+    "main.js": "/arcdevelopment/static/js/main.c2023269.chunk.js",
+    "main.js.map": "/arcdevelopment/static/js/main.c2023269.chunk.js.map",
     "runtime-main.js": "/arcdevelopment/static/js/runtime-main.feda94f8.js",
     "runtime-main.js.map": "/arcdevelopment/static/js/runtime-main.feda94f8.js.map",
     "static/js/2.315d94c8.chunk.js": "/arcdevelopment/static/js/2.315d94c8.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.feda94f8.js",
     "static/js/2.315d94c8.chunk.js",
-    "static/js/main.f8de737d.chunk.js"
+    "static/js/main.c2023269.chunk.js"
   ]
 }
