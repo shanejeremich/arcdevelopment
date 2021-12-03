@@ -1,72 +1,51 @@
-# Getting Started with Create React App
+# Monster Rolodex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can find the deployed project at [Arcdevelopment](https://sjeremich23.github.io/arcdevelopment/)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This project is for me to learn Material-UI and create a navigation header using Material-UI.
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Arcdevelopment](/public/images/arcdevelopment.jpg)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br>
 
-### `npm test`
+## Contributors
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+|                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
+| :----------------------------------------------------------------------------------------------------------------------------: |
+|                     [<img src="public/images/shane.png" width = "200" />](https://github.com/sjeremich23)                      |
+|                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
-### `npm run build`
+<br>
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![React](https://img.shields.io/badge/react-v17.0.1-blue.svg)
+![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Key Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Simple navigation header styled with material-ui
 
-### `npm run eject`
+#### Front end deployed to `GitHub Pages`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+> [Arcdevelopment](https://sjeremich23.github.io/arcdevelopment/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Installation Instructions
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Fork and clone the repo to install it as your own remote.
+- run: `npm install` to download all dependencies.
+- run: `npm start` to start your local development server.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Other Scripts
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-## testing
+    * build - creates a build of the application
+    * start - starts the production server after a build is created
+    * test - runs tests in **tests** directory
+    * eject - copy the configuration files and dependencies into the project so you have full control over them
