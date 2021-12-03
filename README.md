@@ -33,7 +33,7 @@ This project is for me to learn Material-UI and create a navigation header using
 
 - Simple navigation header styled with Material-UI
 
-#### Front end deployed to `GitHub Pages`
+### Front end deployed to `GitHub Pages`
 
 > [Arcdevelopment](https://sjeremich23.github.io/arcdevelopment/)
 
