@@ -1,6 +1,6 @@
 # Arcdevelopment
 
-You can find the deployed project at [Arcdevelopment](https://sjeremich23.github.io/arcdevelopment/)
+You can find the deployed project at [Arcdevelopment](https://shanejeremich.github.io/arcdevelopment/)
 
 ## Overview
 
